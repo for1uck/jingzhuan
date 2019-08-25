@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to jingzhuan净&赚
 
-You can use the [editor on GitHub](https://github.com/for1uck/jingzhuan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+今日头条极速版邀请码：CC66RR35
+火山极速版邀请码：264427601
+番茄小说邀请码：325855751
+快手极速版邀请码：2kt2nrn
+高佣联盟邀请码：19756265
 
 ### Markdown
 
