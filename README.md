@@ -7,10 +7,3 @@
 - [快手极速版](https://ksbeijing.kuaishouapp.com/ug/nebula-task/invitation?code=2kt2nrn&platform=qrcode)邀请码：2kt2nrn
 - [花生日记](http://a.app.qq.com/o/simple.jsp?pkgname=com.jf.lkrj&code=54430668)邀请码：FW76UZ2
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/for1uck/jingzhuan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
