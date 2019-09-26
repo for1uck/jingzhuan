@@ -11,4 +11,4 @@
 - [喜马拉雅极速版](https://m.ximalaya.com/speed/web-earn/share?parentUserId=77437588&channel=1&srcChannel=weixin&srcPicUrl=http%3A%2F%2Ffdfs.xmcdn.com%2Fgroup64%2FM08%2FEB%2F71%2FwKgMc11vELzhSvOFAAANd6d8Ma0990.png&srcText=%E9%82%80%E5%A5%BD%E5%8F%8B%E8%B5%9A%E7%8E%B0%E9%87%91%F0%9F%92%B0)
 
 
-![手机扫码查看当前网页](https://github.com/for1uck/zhuan/blob/master/httpsfor1uck.github.iozhuan.png)
+![手机扫码查看当前网页](https://qr.api.cli.im/qr?data=https%253A%252F%252Ffor1uck.github.io%252Fzhuan%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=e3586e73dac086155d5e98da7f28a948)
