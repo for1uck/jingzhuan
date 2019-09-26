@@ -9,3 +9,6 @@
 - [花生日记](http://a.app.qq.com/o/simple.jsp?pkgname=com.jf.lkrj&code=54430668)邀请码：FW76UZ2
 - [追看视频](https://page.yy.com/sjyy_tasks/is.html?c=80431281&a=4300&s=faceToFace&ab=1&v=3.2.0)邀请码：80431281
 - [喜马拉雅极速版](https://m.ximalaya.com/speed/web-earn/share?parentUserId=77437588&channel=1&srcChannel=weixin&srcPicUrl=http%3A%2F%2Ffdfs.xmcdn.com%2Fgroup64%2FM08%2FEB%2F71%2FwKgMc11vELzhSvOFAAANd6d8Ma0990.png&srcText=%E9%82%80%E5%A5%BD%E5%8F%8B%E8%B5%9A%E7%8E%B0%E9%87%91%F0%9F%92%B0)
+
+
+![手机查看当前网页](https://github.com/for1uck/zhuan/blob/master/httpsfor1uck.github.iozhuan.png)
