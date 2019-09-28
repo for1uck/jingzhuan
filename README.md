@@ -1,5 +1,5 @@
 ## 介绍几个手机赚钱的app
-   （点击查看）
+   （点击下方查看）
 
 - [今日头条极速版](https://coin.toutiao12.com/score_task/page/landing/invite/?user_id=71839465301&task_id=205&aid=35&enter_from=qrcode_invite&activity_name=alipay_scan_code)邀请码：CC66RR35
 - [火山极速版](https://lkt.zsysgz.com/luckycat/page/share_invite/?user_id=80527695046&task_id=205&aid=1350&device_id=69132088686&enter_from=qrcode_invite&activity_name=alipay_scan_code&utm_source=qrcode)邀请码：264427601
